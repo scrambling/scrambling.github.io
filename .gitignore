@@ -25,18 +25,18 @@ hs_err_pid*
 .idea/*
 .sass-cache/*
 
-about.html
-archives.html
+/about.html
+/archives.html
 assets/*
 categories/*
 _config.yml
 css/*
 gulpfile.js
 _includes/*
-index.html
+/index.html
 _jadefiles/*
 _layouts/*
-license.txt
+/license.txt
 node_modules/*
 package.json
 _posts/*
