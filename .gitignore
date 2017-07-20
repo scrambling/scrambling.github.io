@@ -20,3 +20,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.bundle/*
+.idea/*
+.sass-cache/*
+
+about.html
+archives.html
+assets/*
+categories/*
+_config.yml
+css/*
+gulpfile.js
+_includes/*
+index.html
+_jadefiles/*
+_layouts/*
+license.txt
+node_modules/*
+package.json
+_posts/*
